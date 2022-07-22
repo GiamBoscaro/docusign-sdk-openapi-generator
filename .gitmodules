@@ -1,0 +1,3 @@
+[submodule "lib/esignature-sdk"]
+	path = lib/esignature-sdk
+	url = git@github.com:GiamBoscaro/docusign-esignature-flutter-sdk.git
