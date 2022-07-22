@@ -14,7 +14,7 @@ import 'package:openapi_generator_annotations/openapi_generator_annotations.dart
   inputSpecFile: 'lib/specs/esignature.rest.swagger-v2.1.json',
   generatorName: Generator.dart,
   apiPackage: "it.docusign.sdk.esignature",
-  outputDirectory: 'lib/out',
+  outputDirectory: 'lib/esignature-sdk',
   overwriteExistingFiles: false,
   alwaysRun: false,
 )

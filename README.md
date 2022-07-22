@@ -14,7 +14,7 @@ To generate the API code follow these instructions:
 flutter pub run build_runner build --delete-conflicting-outputs
 ```
 
-The generated code will be found on `lib/out` folder.
+The generated code will be found on `lib/esignature-sdk` folder.
 
 ### Fix
 
